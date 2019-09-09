@@ -14,7 +14,7 @@ How to navigate the project repo
 4) Go back to terminal 
 5) Type in this command and paste the url you copied 
 ```
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+git clone git@github.com:username/reponame.git
 ```
 6) Press enter. That should clone the repo.
 7) Navigate to the new folder that is now under your project folder 
@@ -36,7 +36,7 @@ To check what's going on, use
 ```
 git status
 ```
-### How to pull from the iGEM repo from the command line
+### How to pull from the remote repo using the command line
 ```
 git pull origin master
 ```
