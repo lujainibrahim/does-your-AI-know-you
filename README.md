@@ -1,4 +1,4 @@
-# does-your-AI-know-you
+# Using GitHub
 How to navigate the project repo
 ## How to deal with github
 - Read: [Introduction to Git and the Command line](https://sklise.com/2012/09/22/introduction-to-git/).
